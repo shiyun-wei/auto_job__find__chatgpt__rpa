@@ -5,7 +5,7 @@ from prompts import assistant_instructions
 from dotenv import load_dotenv
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+OPENAI_API_KEY = os.getenv('pip install -r requirements.txt')
 OPENAI_BASE_URL = os.getenv('OPENAI_BASE_URL')
 
 # Init OpenAI Client
